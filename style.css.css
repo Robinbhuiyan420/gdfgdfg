@@ -1,0 +1,25 @@
+/* .h-button{}
+.h-button button {
+	background: #e3f2fd;
+	
+}
+.h-button button:hover {
+	color: #fff;
+	
+}
+.page{
+	width: 48%;
+}
+.massage{
+	width: 48%;
+	
+} */
+
+.menu-hover{
+	background:#e3f2fd ;
+}
+.menu-hover:hover{
+	color: white;
+	
+
+}
